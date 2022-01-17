@@ -14,7 +14,7 @@ Where a,b,c,d are n/2 digit numbers.
 ![image](https://user-images.githubusercontent.com/66325605/128862579-ea010bf6-97f9-4458-bdf1-48e96451c52c.png)
 
 
-Here’s Karatsuba’s algorithm:
+# Here’s Karatsuba’s algorithm:
 1. Break the two integers x and y into a, b, c and d as described above
 2. Recursively compute ac
 3. Recursively compute bd
